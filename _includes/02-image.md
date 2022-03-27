@@ -1,1 +1,4 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
